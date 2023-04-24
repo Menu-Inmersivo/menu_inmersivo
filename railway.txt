@@ -1,0 +1,6 @@
+MYSQL_URL mysql://root:9vn3G2fuP8rxW9UdnNzt@containers-us-west-92.railway.app:7889/railway
+MYSQLDATABASE railway
+MYSQLHOST containers-us-west-92.railway.app
+MYSQLPASSWORD 9vn3G2fuP8rxW9UdnNzt
+MYSQLPORT 7889
+MYSQLUSER root
